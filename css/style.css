@@ -1,0 +1,23 @@
+.container{
+    border: 10px solid purple;
+    padding: 50px;
+    text-align: center;
+    
+}
+.to-dos{
+    margin-top: 25px;
+}
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+#inputField {
+    width: 300px;
+    height: 38px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
